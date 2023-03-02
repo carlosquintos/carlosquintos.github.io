@@ -2,7 +2,7 @@
 
 > A Linux and Open Source lover
 
-**Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian, Spanish | **LinkedIn:** ![in/quintosce](img/linkedin. =100x20) | **Adress:** Barcelona, Spain
+**Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian, Spanish | **LinkedIn:** <img src="img/linkedin.png" width="100" height="200"/> | **Adress:** Barcelona, Spain
 
 ## Work Experience
 
