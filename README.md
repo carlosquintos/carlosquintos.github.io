@@ -4,7 +4,7 @@
 
 **Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian, Spanish | **Adress:** Barcelona, Spain
 
-| Linkedin | Instagram | Discord |
+| LinkedIn | Instagram | Discord |
 | --- | --- | --- |
 | ![LinkedIn](img/linkedin.png) | ![Instagram](img/instagram.png) | ![Discord](img/discord.png) |
 
