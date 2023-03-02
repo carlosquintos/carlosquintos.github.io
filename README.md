@@ -8,6 +8,10 @@
 
 <img src="img/linkedin.png" alt="Linkedin" width="50" height="50"/>
 
+**Instagram**
+
+<img src="img/instagram.png" alt="Instagram" width="500" height="50"/>
+
 ## Work Experience
 
 13 Sep. 2021 - 04 Mar. 2022 - Barcelona, Spain
