@@ -12,9 +12,9 @@
 
 <img src="img/instagram.png" alt="Instagram" width="55" height="55"/>
 
-| Linkedin | Instagram |
-| --- | --- |
-| ![LinkedIn](img/linkedin.png) | ![Instagram](img/instagram.png) |
+| Linkedin | Instagram | Discord |
+| --- | --- | --- |
+| ![LinkedIn](img/linkedin.png) | ![Instagram](img/instagram.png) | ![Discord](img/discord.png) |
 
 ## Work Experience
 
