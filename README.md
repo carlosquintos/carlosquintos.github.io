@@ -6,11 +6,11 @@
 
 **LinkedIn:**
 
-<img src="img/linkedin.png" alt="Linkedin" width="50" height="50"/>
+<img src="img/linkedin.png" alt="Linkedin" width="55" height="55"/>
 
 **Instagram**
 
-<img src="img/instagram.png" alt="Instagram" width="50" height="50"/>
+<img src="img/instagram.png" alt="Instagram" width="55" height="55"/>
 
 ## Work Experience
 
