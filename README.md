@@ -10,7 +10,7 @@
 
 **Instagram**
 
-<img src="img/instagram.png" alt="Instagram" width="500" height="50"/>
+<img src="img/instagram.png" alt="Instagram" width="50" height="50"/>
 
 ## Work Experience
 
