@@ -4,7 +4,9 @@
 
 **Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian, Spanish | **Adress:** Barcelona, Spain
 
-**LinkedIn:** <img src="img/linkedin.png" width="50" height="50"/>
+**LinkedIn:**
+
+<img src="img/linkedin.png" width="50" height="50"/>
 
 ## Work Experience
 
