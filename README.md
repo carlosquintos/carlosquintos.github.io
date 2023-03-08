@@ -2,7 +2,11 @@
 
 > A Linux and Open Source lover
 
-**Date of birth:** 02 Nov. 2002 **Nacionality:** Peruvian, Spanish **Address:** Barcelona, Spain
+**Date of birth:** 02 Nov. 2002
+
+**Nacionality:** Peruvian, Spanish
+
+**Address:** Barcelona, Spain
 
 |LinkedIn|Discord|
 |---|---|
