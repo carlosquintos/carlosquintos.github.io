@@ -6,7 +6,7 @@
 
 |LinkedIn|Discord|
 |---|---|
-|<img src="img/linkedin.png" alt="Linkedin" width="300" height="300">|<img src="img/discord.png" alt="Discord" width="300" height="300">|
+|<img src="img/linkedin.png" alt="Linkedin" width="100">|<img src="img/discord.png" alt="Discord" width="100">|
 
 ## Work Experience
 
