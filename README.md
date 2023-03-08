@@ -6,8 +6,7 @@
 
 |LinkedIn|Discord|
 |---|---|
-|![LinkedIn](img/linkedin.png)|![Discord](img/discord.png)|
-|<img src="img/linkedin.png">|<img src="img/discord.png">|
+|<img src="img/linkedin.png" alt="Linkedin" width="300" height="300">|<img src="img/discord.png" alt="Discord" width="300" height="300">|
 
 ## Work Experience
 
