@@ -2,7 +2,7 @@
 
 > A Linux and Open Source lover
 
-**Date of birth:** 02 Nov. 2002 | **Nacionality:** Peruvian, Spanish | **Adress:** Barcelona, Spain
+**Date of birth:** 02 Nov. 2002 **Nacionality:** Peruvian, Spanish **Address:** Barcelona, Spain
 
 |LinkedIn|Discord|
 |---|---|
@@ -44,7 +44,7 @@ ___
 
 ## Language Skills
 
-Mother tongue(s): **Spanish** | **Catalan**
+Mother tongue(s): **Spanish**, **Catalan**
 
 | Language | Listening | Reading | Spoken production | Spoken interaction | Writing |
 | --- | --- | --- | --- | --- | --- |
