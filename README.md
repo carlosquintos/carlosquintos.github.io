@@ -20,6 +20,8 @@ Technicial support installation, configuration and maintenance of microcomputer 
 
 [Plaça d'Alfons Comín, 5, 08023 Barcelona](https://goo.gl/maps/ad9xntYLd9Kv56on8)
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95746.61458217097!2d2.0066719625000116!3d41.415744999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498044495d6ed%3A0x503f8af0c587278c!2sHospital%20Quir%C3%B3nsalud%20Barcelona!5e0!3m2!1sen!2ses!4v1678304300258!5m2!1sen!2ses" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## Education and Training
 
 07 Sep. 2022 - Current - Barcelona, Spain
