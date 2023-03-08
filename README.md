@@ -6,7 +6,7 @@
 
 | LinkedIn | Discord |
 | --- | --- |
-| ![LinkedIn](img/linkedin.png) | ![Discord](img/discord.png) |
+| ![LinkedIn]() | ![Discord](img/discord.png) |
 
 ## Work Experience
 
