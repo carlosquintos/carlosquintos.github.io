@@ -1,4 +1,4 @@
-> A Linux and Open Source lover
+> I'm Carlos and I am a Linux and Open Source lover
 
 **Date of birth:** 02 Nov. 2002
 
